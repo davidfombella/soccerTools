@@ -1,9 +1,11 @@
-# test
-#
-#
-#   Build and Reload Package:  'Ctrl + Shift + B'
-#   Check Package:             'Ctrl + Shift + E'
-#   Test Package:              'Ctrl + Shift + T'
+#' Sample function
+#'
+#' @examples
+#' test()
+#' @export
+#'
+#'
+#'
 
 test <- function() {
   qplot(mpg, wt, data = mtcars)
