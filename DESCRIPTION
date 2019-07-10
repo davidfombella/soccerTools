@@ -1,11 +1,13 @@
 Package: soccerTools
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Soccer Utilities to work with soccer data providers
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
+Author: David Fombella
+Maintainer: David Fombella <dpombal@hotmail.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
+Depends: R (>= 3.4.1)
+Imports: dplyr, ggplot2
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
