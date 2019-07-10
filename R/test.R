@@ -1,4 +1,7 @@
-#' Sample function
+#' @import ggplot2
+#' @import dplyr
+NULL
+#' test function
 #'
 #' @examples
 #' test()
